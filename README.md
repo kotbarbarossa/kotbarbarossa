@@ -5,6 +5,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" title="python"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40" title="djanjo"/>&nbsp;
+<img src="https://www.django-rest-framework.org/img/logo.png" width="90" height="40" title="djanjo_rest"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="mysql"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" title="postgres"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40" title="docker"/>&nbsp;
@@ -13,9 +14,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" title="css"/>&nbsp;
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="40" height="40" title="postman"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" title="github"/>&nbsp;
+<img src="https://cdn.invicti.com/statics/img/drive/h2jfrvzrbyh1yff2n3wfu2hkqqps6x_uvqo.png" width="80" height="40" title="github_actions"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" title="apple"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="linux"/>&nbsp;
-<img src="https://seeklogo.com/images/W/World_of_Warcraft_Horde_PvP-logo-E1C4DB80A9-seeklogo.com.png" width="40" height="40" title="horge"/>&nbsp;
+<img src="https://seeklogo.com/images/W/World_of_Warcraft_Horde_PvP-logo-E1C4DB80A9-seeklogo.com.png" width="30" height="40" title="horge"/>&nbsp;
           
 ### Контакты:
 - [Telegram](https://t.me/kotopro)
